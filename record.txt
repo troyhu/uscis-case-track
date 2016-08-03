@@ -1,0 +1,5 @@
+ysc1690096818	Case Was Received	May 31
+ysc1690096819	Case Was Received	May 31
+ysc1690096820	New Card Is Being Produced	July 29
+ysc1690096821	Case Was Received	May 31
+ysc1690096822	Case Was Received	May 31

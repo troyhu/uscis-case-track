@@ -1,0 +1,7 @@
+The total case number is 5
+----------------------------------------
+Card Was Delivered	0
+Card Was Mailed   	0
+Card Was Produced	1
+Case Was Received	4
+Case Was Approved	0
